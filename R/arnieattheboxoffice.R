@@ -2,7 +2,7 @@
 #'
 #' The data set contains the weekend box office performance of Arnold
 #' Schwarzenegger's movies from 1982 to the present. The data was scraped
-#' from \href{http://www.the-numbers.com}{the-numbers.com}.
+#' from \href{http://www.the-numbers.com}{The Numbers}.
 #'
 #' @format A CSV file with nine fields: \code{Name}, \code{Date}, \code{Rank},
 #' \code{Gross}, \code{Percentage.Change}, \code{Theaters}, \code{Per.Theater},

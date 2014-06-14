@@ -12,7 +12,7 @@ arnie
 \description{
 The data set contains the weekend box office performance of Arnold
 Schwarzenegger's movies from 1982 to the present. The data was scraped
-from \href{http://www.the-numbers.com}{the-numbers.com}.
+from \href{http://www.the-numbers.com}{The Numbers}.
 }
 \references{
 \href{http://www.the-numbers.com/new/person/128750401-Arnold-Schwarzenegger#tab=acting}{The Numbers: Arnold Schwarzenegger}
