@@ -15,7 +15,7 @@ Schwarzenegger's movies from 1982 to the present. The data was scraped
 from \href{http://www.the-numbers.com}{The Numbers}.
 }
 \references{
-\href{http://www.the-numbers.com/new/person/128750401-Arnold-Schwarzenegger#tab=acting}{The Numbers: Arnold Schwarzenegger}
+\href{http://www.the-numbers.com/new/person/128750401-Arnold-Schwarzenegger}{The Numbers: Arnold Schwarzenegger}
 }
 \keyword{datasets}
 

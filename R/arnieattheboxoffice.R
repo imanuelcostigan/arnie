@@ -8,5 +8,5 @@
 #' \code{Gross}, \code{Percentage.Change}, \code{Theaters}, \code{Per.Theater},
 #' \code{Total.Gross} and \code{Days}.
 #' @references
-#' \href{http://www.the-numbers.com/new/person/128750401-Arnold-Schwarzenegger#tab=acting}{The Numbers: Arnold Schwarzenegger}
+#' \href{http://www.the-numbers.com/new/person/128750401-Arnold-Schwarzenegger}{The Numbers: Arnold Schwarzenegger}
 "arnie"
