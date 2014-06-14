@@ -1,0 +1,11 @@
+Package: arnieattheboxoffice
+Type: Package
+Title: "Arnie" box office records 1982-2014
+Version: 0.1
+Date: 2014-06-14
+Authors@R: 'Imanuel Costigan <i.costigan@me.com> [aut,cre]'
+Description: Arnold Schwarzenegger movie weekend box office records from
+    1982-2014
+Depends:
+    R (>= 3.1.0)
+License: file LICENSE
