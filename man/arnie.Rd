@@ -3,7 +3,7 @@
 \name{arnie}
 \alias{arnie}
 \title{Arnie at the box office}
-\format{A CSV file with nine fields: \code{Name}, \code{Date}, \code{Rank},
+\format{A data frame with nine fields: \code{Name}, \code{Date}, \code{Rank},
 \code{Gross}, \code{Percentage.Change}, \code{Theaters}, \code{Per.Theater},
 \code{Total.Gross} and \code{Days}.}
 \usage{
