@@ -6,3 +6,4 @@ Install it from GitHub with:
 
     devtools::install_github("imanuelcostigan/arnie")
 
+[![Build Status](https://travis-ci.org/imanuelcostigan/arnie.svg?branch=master)](https://travis-ci.org/imanuelcostigan/arnie)
